@@ -19,7 +19,10 @@ function Intro() {
             nowadays.
           </p>
 
-          <div className='flex items-end justify-center mt-16'>
+          <div
+            className='flex items-end justify-center mt-16'
+            aria-label='Profile Picture'
+          >
             <Image
               src='/ProfilePic.png'
               alt='Francamaradev'

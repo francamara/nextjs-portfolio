@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 function LatestPosts() {
   return (
-    <div className='bg-white py-20'>
+    <div className='bg-white py-20' aria-label='Blog'>
       <div className='max-w-5xl px-6 mx-auto text-center'>
         <h2 className='text-2xl font-semibold text-gray-800'>Latest Posts</h2>
 

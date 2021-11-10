@@ -8,7 +8,7 @@ function Navbar() {
       <div className='container mx-auto px-6 py-4'>
         <div className='flex items-center justify-between'>
           <div>
-            <Link href='/'>
+            <Link href='/' aria-label='Home'>
               <a
                 className='flex items-center text-gray-800 hover:text-indigo-600'
                 href='#'
@@ -39,6 +39,7 @@ function Navbar() {
               className='flex items-center mx-2 text-gray-800 hover:text-indigo-600'
               href='https://www.linkedin.com/in/francamaradev/'
               target='_blank'
+              aria-label='Linkedin'
             >
               <svg
                 xmlns='http://www.w3.org/2000/svg'
@@ -52,8 +53,9 @@ function Navbar() {
             {/* Twitter Icon */}
             <a
               className='flex items-center mx-2 text-gray-800 hover:text-indigo-600'
-              href='#'
+              href='https://twitter.com/francamaraph'
               target='_blank'
+              aria-label='Twitter'
             >
               <svg
                 className='h-5 w-5 sm:h-6 sm:w-6 fill-current'
@@ -69,6 +71,7 @@ function Navbar() {
               className='flex items-center mx-2 text-gray-800 hover:text-indigo-600'
               href='https://github.com/francamara'
               target='_blank'
+              aria-label='GitHub'
             >
               <svg
                 className='h-5 w-5 sm:h-6 sm:w-6 fill-current'
