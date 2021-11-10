@@ -2,7 +2,7 @@ import React from 'react'
 
 function Projects() {
   return (
-    <div className='bg-gray-800 pattern py-20'>
+    <div className='bg-gray-800 pattern py-20' aria-label='Projects'>
       <div className='max-w-5xl px-6 mx-auto text-center'>
         <h2 className='text-2xl font-semibold text-white'>Projects</h2>
 
