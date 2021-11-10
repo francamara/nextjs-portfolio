@@ -12,7 +12,7 @@ function Post() {
         frontend is available but the backend isn't done yet :c
         <br />
         The repo is public, you can check it here{' '}
-        <Link href='https://github.com/francamara/nextjs-portfolio'>
+        <Link href='https://github.com/francamara/graphql-mongodb-server'>
           <button class='bg-gray-700 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded'>
             <svg
               aria-hidden='true'
