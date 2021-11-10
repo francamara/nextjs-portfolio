@@ -14,52 +14,10 @@ function LatestPosts() {
           >
             <div className='flex items-center justify-between px-4 py-2'>
               <h3 className='text-lg font-medium text-gray-700'>
-                Easy, Free Laravel CI Using GitHub Actions
+                Coming soon...
               </h3>
               <span className='block text-gray-600 font-light text-sm'>
                 20 Jan 2020
-              </span>
-            </div>
-          </a>
-
-          <a
-            className='mt-8 max-w-2xl w-full block bg-white shadow-md rounded-md border-t-4 border-indigo-600 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110'
-            href='#'
-          >
-            <div className='flex items-center justify-between px-4 py-2'>
-              <h3 className='text-lg font-medium text-gray-700'>
-                Pest: a delightful PHP Testing Framework
-              </h3>
-              <span className='block text-gray-600 font-light text-sm'>
-                29 Oct 2019
-              </span>
-            </div>
-          </a>
-
-          <a
-            className='mt-8 max-w-2xl w-full block bg-white shadow-md rounded-md border-t-4 border-indigo-600 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110'
-            href='#'
-          >
-            <div className='flex items-center justify-between px-4 py-2'>
-              <h3 className='text-lg font-medium text-gray-700'>
-                Using inline SVGs in Vue components
-              </h3>
-              <span className='block text-gray-600 font-light text-sm'>
-                15 Oct 2019
-              </span>
-            </div>
-          </a>
-
-          <a
-            className='mt-8 max-w-2xl w-full block bg-white shadow-md rounded-md border-t-4 border-indigo-600 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110'
-            href='#'
-          >
-            <div className='flex items-center justify-between px-4 py-2'>
-              <h3 className='text-lg font-medium text-gray-700'>
-                Acceptance Testing Laravel & VueJs Apps with Codeception
-              </h3>
-              <span className='block text-gray-600 font-light text-sm'>
-                3 Oct 2019
               </span>
             </div>
           </a>
